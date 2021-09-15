@@ -25,10 +25,10 @@ Typerwriter : npm i typewriter-effect
 
 #### 9. Run command *npm start* to run the application. DONE!
 Below are the screenshots: 
-## React Frontend 
+### React Frontend 
 ![Screenshot (77)](https://user-images.githubusercontent.com/30664033/133466164-dcfcdef0-ee65-42d0-963c-27b33864e79f.png)
-## .NET Core Backend
+### .NET Core Backend
 ![Screenshot (91)](https://user-images.githubusercontent.com/30664033/133466364-f094f143-ff08-4343-b83e-d99df57baae0.png)
-## MongoDb
+### MongoDb
 ![Screenshot (78)](https://user-images.githubusercontent.com/30664033/133466382-fb7dd3a3-0dc3-4af4-a729-45c74b56fe98.png)
 # Thank You!
